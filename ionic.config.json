@@ -1,0 +1,8 @@
+{
+  "name": "Ping Pong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a3f57cb3"
+}
